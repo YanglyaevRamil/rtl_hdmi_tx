@@ -1,0 +1,3 @@
+[submodule "rtl_gp_lib"]
+	path = rtl_gp_lib
+	url = https://github.com/YanglyaevRamil/rtl_gp_lib.git
